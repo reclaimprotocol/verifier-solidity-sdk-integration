@@ -1,6 +1,6 @@
 {
   "name": "@reclaimprotocol/verifier-solidity-sdk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A verifier-oriented version of reclaim's solidity sdk.",
   "files": [
     "./contracts"
