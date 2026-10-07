@@ -34,7 +34,7 @@
   "dependencies": {
     "@nomiclabs/hardhat-ethers": "^2.2.3",
     "@openzeppelin/contracts": "^4.9.2",
-    "@openzeppelin/hardhat-upgrades": "^1.28.0",
+    "@openzeppelin/hardhat-upgrades": "^4.1.0",
     "@reclaimprotocol/crypto-sdk": "^1.4.0"
   }
 }
